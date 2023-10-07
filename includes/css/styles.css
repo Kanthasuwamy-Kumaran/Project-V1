@@ -25,6 +25,7 @@ Notes:	 Hand coded for Udemy.com
 table{
 	padding:5px 5px 5px 5px;
 	border-radius:5%;
+	color: blue;
 }
 .parahead{
 	font-size: 20px;
